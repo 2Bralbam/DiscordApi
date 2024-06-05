@@ -1,4 +1,5 @@
 # USAR NGROK PARA CORRER ESTA APP, ENVIA UN BROADCAST MEDIANTE SOCKET A LOCAL Y LO RECIBE EL DISCORDDASHBOARD CON CORS DESHABILITADO
+# EL ARCHIVO ENV ESTA PRIVADO POR LO QUE TENDRAS QUE GENERAR O DESCARGAR UNO CON TUS KEYS Y TOKENS
 # Getting Started app for Discord
 
 This project contains a basic rock-paper-scissors-style Discord app written in JavaScript, built for the [getting started guide](https://discord.com/developers/docs/getting-started).
